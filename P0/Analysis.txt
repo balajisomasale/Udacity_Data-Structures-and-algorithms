@@ -1,0 +1,23 @@
+#This Analysis is made by Somasale Balaji as part of Nano degree DSA, Udacity.
+These are my Interpretation and Understanding of the terms like Big O Notation for given Tasks
+
+Big O Notation for each task:
+
+Task0
+The code is clearly CONSTANT therefore the worse case is 'Big 0' Notation is: 'O(1)'
+
+Task1
+The code has ONE FOR LOOP among the data, therefore the worse case is 'Big 0' Notation is: 'O(n)' 
+
+Task2
+The code has ONE FOR LOOP among the data, therefore the worse case is 'Big 0' Notation is: 'O(n)'
+
+Task3
+Part A
+The code has ONE SORTED FUNCTION, therefore the worse case 'Big 0' Notation is: 'O(nlogn)' 
+
+Part B
+The code has ONE FOR LOOP among the data, therefore the worse case 'Big 0' Notation is: 'O(n)' 
+
+Task4
+The code has ONE SORTED FUNCTION, therefore the worse case 'Big 0' Notation is: 'O(nlogn)' 
